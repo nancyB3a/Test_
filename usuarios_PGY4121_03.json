@@ -2,183 +2,159 @@
   "alumnos": [
     {
       "id": 1,
-      "nombre": "",
-      "username": "",
+      "nombre": "JOSUE AVILA MENARES",
+      "username": "jos.avila",
       "password": "123456"      
     },
     {
       "id": 2,
-      "nombre": "",
-      "username": "",
+      "nombre": "CLAUDIO ALEJANDRO BENAVIDES VALDES",
+      "username": "clau.benavides",
       "password": "123456"     
     },
     {
       "id": 3,
-      "nombre": "",
-      "username": "",
+      "nombre": "JOSE ANTONIO BRICEÑO RIVERO",
+      "username": "jo.briceno",
       "password": "123456"     
     },
     {
       "id": 4,
-      "nombre": "",
-      "username": "",
+      "nombre": "NICOLAS MARCEL CABELLO PINEDA",
+      "username": "nic.cabellop",
       "password": "123456"     
     },
     {
       "id": 5,
-      "nombre": "",
-      "username": "",
+      "nombre": "JOSE ESTEBAN CABEZAS GONZALEZ",
+      "username": "jo.cabezasg",
       "password": "123456"
     },
     {
       "id": 6,
-      "nombre": "",
-      "username": "",
+      "nombre": "JAVIER IGNACIO COLOMA TOBAR",
+      "username": "j.colomat",
       "password": "123456"
     },
     {
       "id": 7,
-      "nombre": "",
-      "username": "",
+      "nombre": "YOJAN BRANDON CORTES DIAZ",
+      "username": "yoj.cortes",
       "password": "123456"
     },
     {
       "id": 8,
-      "nombre": "",
-      "username": "",
+      "nombre": "AXEL ELGUETA TAPIA",
+      "username": "ax.elgueta",
       "password": "123456"
     },
     {
       "id": 9,
-      "nombre": "",
-      "username": "",
+      "nombre": "BENJAMIN JESUS FILIPPI VEGA",
+      "username": "be.filippi",
       "password": "123456"
     },
     {
       "id": 10,
-      "nombre": "",
-      "username": "",
+      "nombre": "LUIS PATRICIO LAGOS ABARCA",
+      "username": "lu.lagos",
       "password": "123456"
     },
     {
       "id": 11,
-      "nombre": "",
-      "username": "",
+      "nombre": "RODRIGO ALONSO LETELIER ISAMI",
+      "username": "ro.letelieri",
       "password": "123456"
     },
     {
       "id": 12,
-      "nombre": "",
-      "username": "",
+      "nombre": "BASTIAN DANILO MADRID BUGUENO",
+      "username": "ba.madridb",
       "password": "123456"
     },
     {
       "id": 13,
-      "nombre": "",
-      "username": "",
+      "nombre": "BRAYAN ALEXANDER MIRANDA SAAVEDRA",
+      "username": "br.miranda",
       "password": "123456"
     },
     {
       "id": 14,
-      "nombre": "",
-      "username": "",
+      "nombre": "FERNANDO IGNACIO MORALES GALLARDO",
+      "username": "fern.moralesg",
       "password": "123456"
     },
     {
       "id": 15,
-      "nombre": "",
-      "username": "",
+      "nombre": "IGNACIO ANDRES MORALES GONZALEZ",
+      "username": "ign.moralesg",
       "password": "123456"
     },
     {
       "id": 16,
-      "nombre": "",
-      "username": "",
+      "nombre": "JORGE LUCAS ÑANCUPIL LIZAMA",
+      "username": "jor.nancupil",
       "password": "123456"
     },
     {
       "id": 17,
-      "nombre": "",
-      "username": "",
+      "nombre": "LUIS ESTEBAN OLIVARES ROJAS",
+      "username": "lu.olivaresr",
       "password": "123456"
     },
     {
       "id": 18,
-      "nombre": "",
-      "username": "",
+      "nombre": "BENITO ANDRES OLMOS MONDACA",
+      "username": "ben.olmos",
       "password": "123456"
     },
     {
       "id": 19,
-      "nombre": "",
-      "username": "",
+      "nombre": "WALTER ALEJANDRO PACHECO CABRERA",
+      "username": "walt.pacheco",
       "password": "123456"
     },
     {
       "id": 20,
-      "nombre": "",
-      "username": "",
+      "nombre": "FABIAN ANDRES PULGAR ALVAREZ",
+      "username": "fabi.pulgar",
       "password": "123456"
     },
     {
       "id": 21,
-      "nombre": "",
-      "username": "",
+      "nombre": "DANIEL REBOLLEDO ACOSTA",
+      "username": "da.rebolledo",
       "password": "123456"
     },
     {
       "id": 22,
-      "nombre": "",
-      "username": "",
+      "nombre": "TOMAS ESTEBAN TORRES LEON",
+      "username": "to.torres",
       "password": "123456"
     },
     {
       "id": 23,
-      "nombre": "",
-      "username": "",
+      "nombre": "LUCIANO ESTEBAN URIBE VERA",
+      "username": "luc.uribe",
       "password": "123456"
     },
     {
       "id": 24,
-      "nombre": "",
-      "username": "",
+      "nombre": "YERKO UVAL MONTECINOS",
+      "username": "y.uval",
       "password": "123456"
     },
     {
       "id": 25,
-      "nombre": "",
-      "username": "",
+      "nombre": "CAMILA VILLARROEL NUNEZ",
+      "username": "ca.villarroeln",
       "password": "123456"
     },
     {
       "id": 26,
-      "nombre": "",
-      "username": "",
+      "nombre": "JEREMY ZUNIGA SEPULVEDA",
+      "username": "jere.zuniga",
       "password": "123456"
-    },
-    {
-      "id": 27,
-      "nombre": "",
-      "username": "",
-      "password": "123456"
-    },
-    {
-      "id": 28,
-      "nombre": "",
-      "username": "",
-      "password": "123456"
-    },
-    {
-      "id": 29,
-      "nombre": "",
-      "username": "",
-      "password": "123456"
-    },
-    {
-      "id": 30,
-      "nombre": "",
-      "username": "",
-      "password": "123456"
-    } 
+    }
   ]
 }
