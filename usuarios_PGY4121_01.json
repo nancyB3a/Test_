@@ -33,7 +33,7 @@
     {
       "id": 6,
       "nombre": "NICOLAS ENRIQUE CAÑAS ARRIAGADA",
-      "username": "",
+      "username": "nic.canas",
       "password": "123456"
     },
     {
@@ -116,68 +116,68 @@
     },
     {
       "id": 20,
-      "nombre": "",
-      "username": "",
+      "nombre": "NICOLAS IGNACIO MUJICA CORTES",
+      "username": "ni.mujicac",
       "password": "123456"
     },
     {
       "id": 21,
-      "nombre": "",
-      "username": "",
+      "nombre": "BASTIAN FELIPE MUÑOZ SILVA",
+      "username": "ba.munozs",
       "password": "123456"
     },
     {
       "id": 22,
-      "nombre": "",
-      "username": "",
+      "nombre": "FELIPE NEIRA MUNOZ",
+      "username": "fel.neiram",
       "password": "123456"
     },
     {
       "id": 23,
-      "nombre": "",
-      "username": "",
+      "nombre": "ALEJANDRO ESTEBAN PEÑA SCHAMPKE",
+      "username": "ale.penas",
       "password": "123456"
     },
     {
       "id": 24,
-      "nombre": "",
-      "username": "",
+      "nombre": "ALEXIS MARCELO PEREZ ROLDAN",
+      "username": "alexi.perezr",
       "password": "123456"
     },
     {
       "id": 25,
-      "nombre": "",
-      "username": "",
+      "nombre": "CAMILO IGNACIO PULGAR VEGA",
+      "username": "cami.pulgar",
       "password": "123456"
     },
     {
       "id": 26,
-      "nombre": "",
-      "username": "",
+      "nombre": "VICENTE OSVALDO RIVAS URRUTIA",
+      "username": "vi.rivas",
       "password": "123456"
     },
     {
       "id": 27,
-      "nombre": "",
-      "username": "",
+      "nombre": "JORGE ERASMO SEPULVEDA FARIAS",
+      "username": "jor.sepulvedaf",
       "password": "123456"
     },
     {
       "id": 28,
-      "nombre": "",
-      "username": "",
+      "nombre": "JORDAN MITCHEL URZUA ESCUDERO",
+      "username": "jo.urzua",
       "password": "123456"
     },
     {
       "id": 29,
-      "nombre": "",
-      "username": "",
+      "nombre": "YERKO JEREMY VERA CUEVAS",
+      "username": "ye.verac",
       "password": "123456"
     },
     {
       "id": 30,
-      "nombre": "",
-      "username": "",
+      "nombre": "DANITZA IVONNE ZUÑIGA HERNANDEZ",
+      "username": "da.zunigah",
       "password": "123456"
     } 
   ]
