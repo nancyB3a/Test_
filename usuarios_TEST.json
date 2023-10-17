@@ -1,5 +1,4 @@
-{
-  "alumnos":[
+[
     {
       "id": 1,
       "nombre": "CRISTOBAL ALVAREZ",
@@ -181,4 +180,3 @@
       "password": "123456"
     } 
   ]
-}
