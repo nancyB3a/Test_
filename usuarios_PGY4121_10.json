@@ -1,0 +1,182 @@
+[
+    {
+      "id": 1,
+      "nombre": "JAZIEL AGUILERA GONZALEZ",
+      "username": "jaz.aguilera@duocuc.cl",
+      "password": "123456"      
+    },
+    {
+      "id": 2,
+      "nombre": "MANUEL ARAYA LEON",
+      "username": "man.araya@duocuc.cl",
+      "password": "123456"     
+    },
+    {
+      "id": 3,
+      "nombre": "FABIAN BALBOA IGOR",
+      "username": "fab.balboa@duocuc.cl",
+      "password": "123456"     
+    },
+    {
+      "id": 4,
+      "nombre": "ARIEL CAMPOS VEGA",
+      "username": "ari.campos@duocuc.cl",
+      "password": "123456"     
+    },
+    {
+      "id": 5,
+      "nombre": "CONSTANZA CONTRERAS CASTILLO",
+      "username": "co.contreras@duocuc.cl",
+      "password": "123456"
+    },
+    {
+      "id": 6,
+      "nombre": "MATIAS CORREA SOLOGUREN",
+      "username": "mat.correas@duocuc.cl",
+      "password": "123456"
+    },
+    {
+      "id": 7,
+      "nombre": "",
+      "username": "@duocuc.cl",
+      "password": "123456"
+    },
+    {
+      "id": 8,
+      "nombre": "DANIEL GARAY BERNALES",
+      "username": "da.garay@duocuc.cl",
+      "password": "123456"
+    },
+    {
+      "id": 9,
+      "nombre": "MATIAS GUAJARDO GALLARDO",
+      "username": "ma.guajardog@duocuc.cl",
+      "password": "123456"
+    },
+    {
+      "id": 10,
+      "nombre": "DIEGO HERRERA VERA",
+      "username": "di.herrerav@duocuc.cl",
+      "password": "123456"
+    },
+    {
+      "id": 11,
+      "nombre": "DIEGO ISLA ZAMORA",
+      "username": "dieg.isla@duocuc.cl",
+      "password": "123456"
+    },
+    {
+      "id": 12,
+      "nombre": "CLAUDIA JELVEZ VALDES",
+      "username": "cla.jelvez@duocuc.cl",
+      "password": "123456"
+    },
+    {
+      "id": 13,
+      "nombre": "MIGUEL LEIVA CID",
+      "username": "mi.leivac@duocuc.cl",
+      "password": "123456"
+    },
+    {
+      "id": 14,
+      "nombre": "IGNACIO LEYTON REYES",
+      "username": "ig.leyton@duocuc.cl",
+      "password": "123456"
+    },
+    {
+      "id": 15,
+      "nombre": "NICOLAS MARTINEZ LEIVA",
+      "username": "ni.martinezl@duocuc.cl",
+      "password": "123456"
+    },
+    {
+      "id": 16,
+      "nombre": "MATIAS MATURANA ARANCIBIA",
+      "username": "mati.maturana@duocuc.cl",
+      "password": "123456"
+    },
+    {
+      "id": 17,
+      "nombre": "KARL MULLER PAVEZ",
+      "username": "ka.muller@duocuc.cl",
+      "password": "123456"
+    },
+    {
+      "id": 18,
+      "nombre": "JULIET OBREQUE SALINAS",
+      "username": "juliet.obreque@duocuc.cl",
+      "password": "123456"
+    },
+    {
+      "id": 19,
+      "nombre": "NICOLAS OSSANDON BRICENO",
+      "username": "nico.ossandon@duocuc.cl",
+      "password": "123456"
+    },
+    {
+      "id": 20,
+      "nombre": "DANIEL PERALTA ROSAS",
+      "username": "dani.peralta@duocuc.cl",
+      "password": "123456"
+    },
+    {
+      "id": 21,
+      "nombre": "MATIAS PINTO RIVEROS",
+      "username": "mat.pintor@duocuc.cl",
+      "password": "123456"
+    },
+    {
+      "id": 22,
+      "nombre": "GABRIEL QUEZADA VERA",
+      "username": "ga.quezadav@duocuc.cl",
+      "password": "123456"
+    },
+    {
+      "id": 23,
+      "nombre": "PRISCILA RODRIGUEZ GALVEZ",
+      "username": "pr.rodriguezr@duocuc.cl",
+      "password": "123456"
+    },
+    {
+      "id": 24,
+      "nombre": "THOMAS ROJAS VALLADARES",
+      "username": "tho.rojas@duocuc.cl",
+      "password": "123456"
+    },
+    {
+      "id": 25,
+      "nombre": "NATALIA RUBILAR HERRERA",
+      "username": "na.rubilar@duocuc.cl",
+      "password": "123456"
+    },
+    {
+      "id": 26,
+      "nombre": "ROCIO SAAVEDRA REYES",
+      "username": "ro.saavedrar@duocuc.cl",
+      "password": "123456"
+    },
+    {
+      "id": 27,
+      "nombre": "LUCAS SANCHEZ FERNANDEZ",
+      "username": "luca.sanchez@duocuc.cl",
+      "password": "123456"
+    },
+    {
+      "id": 28,
+      "nombre": "NAYADETH TEPANO TUKI",
+      "username": "na.tepano@duocuc.cl",
+      "password": "123456"
+    },
+    {
+      "id": 29,
+      "nombre": "DAVID VELASCO SANCHEZ",
+      "username": "da.velasco@duocuc.cl",
+      "password": "123456"
+    },
+    {
+      "id": 30,
+      "nombre": "MATIAS VELASQUEZ MANSILLA",
+      "username": "mat.velasquezm@duocuc.cl",
+      "password": "123456"
+    } 
+  ]
