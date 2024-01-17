@@ -1,10 +1,9 @@
-{
-  "alumnos": [
-    {
-      "id": 1,
-      "nombre": "Chita Cruz",
-      "username": "ABCD",
-      "password": "123456"      
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "nombre": "Chita Cruz",
+    "username": "ABCD",
+    "password": "123456"      
+  }
+]
+
